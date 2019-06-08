@@ -1,7 +1,7 @@
 package edu.uml.cs.isense.comm;
 
 import java.util.ArrayList;
-
+//add comment
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
